@@ -7,7 +7,7 @@ I build AI-powered products end to end: data dashboards, voice assistants, learn
 | Project | What it does |
 |---|---|
 | [**amf-dash**](https://github.com/inayat411/amf-dash) | Secured, read-only edition of an Arab Monetary Fund statistics dashboard: fixed IMF data snapshot, Admin/Viewer accounts, server-side sessions, CSRF protection, expiry and an admin panel. 891 chart renders tested. |
-| [**arabstat-poc**](https://github.com/inayat411/arabstat-poc) | The original proof of concept: IMF balance-of-payments, investment-position and national-accounts data for 11 countries, with bilingual English/Arabic (RTL) dashboards, country comparison, presentation mode and AI-planned charts. |
+| [**arabstat-poc**](https://github.com/inayat411/arabstat-poc) | The original proof of concept: IMF balance-of-payments, investment-position and national-accounts data for 11 countries, with bilingual English/Arabic (RTL) dashboards, country comparison, presentation mode and Excel/CSV upload with column mapping. |
 | [**inayatdashtemplate**](https://github.com/inayat411/inayatdashtemplate) | A reusable, fully featured dashboard product, customised per client. Paid features are switchable modules (AI, presentation, reports, uploads) enforced on the server. It includes a setup wizard with sector presets, versioned branding, and one-command client packaging with a secret scan. |
 
 ## 🤖 AI assistants & tools
